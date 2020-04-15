@@ -2,10 +2,11 @@
 layout: default
 title: Warm Up
 permalink: warmup
-nav: 1
+nav_order: 1
 ---
 
-## Warm Up
+# {{ page.title }}
+
 - [Neck Circles](/warmup/neck-circles)
 - [Deep Squat Wrist Roll](/warmup/deep-squat-wrist-roll)
 - [The Titanic](/warmup/the-titanic)
