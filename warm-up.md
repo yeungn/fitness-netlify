@@ -12,7 +12,7 @@ nav: 1
 - [Overhead Reach](/warmup/overhead-reach)
 - [Dead Hang](/warmup/dead-hang)
 - [Elbow Corkscrew](/warmup/elbow-corkscrew)
-- [Plank Knee Raise](/warmup/plank-knee-raises)
+- [Plank Knee Raise](/warmup/plank-knee-raise)
 - [Wrist Warmup](/warmup/wrist-warmup)
 
 ---
