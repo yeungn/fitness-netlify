@@ -22,6 +22,8 @@ nav_order: 3
 
 ## Shoulderstand Squats
 
+work up to 3 sets of 50 then begin the next
+
 ### Performance
 Lie on your back, with your knees well bent. Kick against the floor while pushing with your hands until your feet are up in the air. As you reach this position, place your hands on your lower back for support, whilst keeping your upper arms firmly on the floor. You will now be in a shoulderstand position, supported by your shoulders and upper back, as well as the backs of your upper arms. Remember to constantly support your weight through these areas and keep any pressure off the neck. Your body should be locked straight, not bent at the hips. This is the start position. Keeping your torso as upright as possible, bend at the hips and knees until your knees touch your forehead. This is the finish position. Extend your legs directly back up, until your body is back in the start position. Repeat.
 
@@ -46,6 +48,8 @@ Back to the [Top](#squats)
 ---
 
 ## Jackknife Squats
+
+work up to 3 sets of 40 then begin the next
 
 ### Performance
 Stand in front of a sturdy object which comes up to your knees, or at least the tops of your shins. A small coffee table, chair or a bunk are good choices. Your legs should be shoulder width apart, or a little wider. Keeping your legs fairly straight, bend at your hips until your palms are in contact with the object. Tilt forwards slightly so that you can take some of your body’s weight through your hands. This is the start position. Now, with your torso remaining as parallel to the floor as possible, bend at the knees and hips until your hamstrings reach your calves and you cannot go any further. This will require that you bend your arms, also. This is the finish position. Using combined leg and arm power, push yourself up to the start position. Do not raise the heels at any point during the exercise.
@@ -74,6 +78,8 @@ Back to the [Top](#squats)
 
 ## Supported Squats
 
+work up to 3 sets of 30 then begin the next
+
 ### Performance
 Stand up straight with the feet shoulder width apart, or slightly wider. Your arms should be out straight and angled down, holding onto a sturdy object higher than your thighs. A desk, robust basin or the back of a chair will do. This is the start position. Slowly lower yourself down by bending at the hips and the knees, keeping your back as straight as possible, until your hamstrings meet your calves and you cannot descend any further. This is the finish position. Pause for a moment, before pushing yourself up using mostly leg power. To take some of the pressure off your legs—particularly in the bottom position—pull yourself up slightly with your arms, by exerting downward force on the object you are holding. Try to keep the arms fairly straight. Your heels should remain flat on the floor throughout the exercise.
 
@@ -96,6 +102,8 @@ Back to the [Top](#squats)
 ---
 
 ## Half Squats
+
+work up to 2 sets of 50 then begin the next
 
 ### Performance
 Stand with the feet shoulder width apart, or slightly wider. Don’t keep your feet perfectly in line with one another; allow your toes to point very slightly outwards. Place your hands in a comfortable position—on your hips, chest or shoulders is fine. This is the start position). Now bend at the hips and knees until your knees are angled at ninety degrees, or (in other words) your thighs are parallel to the floor. This is the finish position. You can use a mirror or ask a friend the first few times until your body learns the right depth. Don’t rush the technique, and never bounce; pause in mid-air at the bottom position for a one count before returning to the start position under full muscular control. Keep the back straight throughout the motion, and keep your heels flat on the floor. Your knees should always point in the same direction as your feet; don’t ever allow the knees to “track” inwards as you squat. The outwards angle of your toes will assist you with this.
@@ -123,6 +131,8 @@ Back to the [Top](#squats)
 ---
 
 ## Full Squats
+
+work up to 2 sets of 30 then begin the next
 
 ### Performance
 Stand tall, with the feet shoulder width apart or a little wider, depending upon your preference. Turn the toes slightly out, and place the arms in a comfortable position. This is the start of the movement. Bend at the hips and knees, keeping the back straight. When your thighs reach approximately parallel to the floor, shift your weight backwards as if you were about to sit down. Continue descending at a controlled speed until the backs of your thighs are resting against your calves. This is the finish position. Pause for a moment before pressing yourself back up with leg strength alone. Your upward motion should be the reverse of your downward motion. Don’t raise the heels, or allow the knees to track inwards.
@@ -153,6 +163,8 @@ Back to the [Top](#squats)
 
 ## Close Squats
 
+work up to 2 sets of 20 then begin the next
+
 ### Performance
 Stand up straight with your heels together, toes angled out very slightly. Your arms should be straight out in front of your chest. This is the start position. Bend at the knees and hips until your hamstrings are resting on your calves and you can go no further. Your chest will be pressed into your thighs. Do not raise the heels. To prevent yourself from tipping backwards, you may have to flex your shins to pull your toes up so that you ease forwards. Return to the start position using leg power only.
 
@@ -181,6 +193,8 @@ Back to the [Top](#squats)
 ---
 
 ## Uneven Squats
+
+work up to 2 sets of 20 then begin the next
 
 ### Performance
 Stand up straight with one foot flat on the floor, and another resting firmly on a basketball located approximately one foot length in front of the other foot. The feet should be shoulder width apart or a little wider. Your arms should be out in front of you, directly opposite your chest. This is the start position. Bend at the knees and hips until the back of the thigh of your non-ball leg touches the corresponding calf. You will not be able to descend any further, despite the fact that your ball leg is not compressed as much. This is the finish position. While learning this position, you may tip backwards, so ensure that you have enough clear space behind you just in case. This applies to all deep squatting. Pause briefly, before pushing yourself back up to the start position with both legs. At no point during the exercise should you raise your heel, rock forwards or bounce, despite the fact that you may instinctively want to do these things at first. Use strength.
@@ -212,6 +226,8 @@ Back to the [Top](#squats)
 
 ## Half One Leg Squats
 
+work up to 2 sets of 20 then begin the next
+
 ### Performance
 Stand straight, with one foot flat on the floor, and the other foot up in the air in front of you. Your elevated foot should be at about the level of your opposite thigh, and the leg should be straight, or nearly so. Place your hands out in front of your chest. This is the start position. Bend the hip and knee of the leg which is supporting your bodyweight, until the knee is bent about ninety degrees. This will put your thigh approximately parallel with the floor. At this point, your raised foot should still be some way off the ground. This is the finish position. Pause for a moment under tension, before driving yourself up using the power of your single leg. Keep the back flat and the heel of your supporting leg on the floor at all times.
 
@@ -240,6 +256,8 @@ Back to the [Top](#squats)
 ---
 
 ## Assisted One Leg Squats
+
+work up to 2 sets of 20 then begin the next
 
 ### Performance
 Place a basketball to the side of the foot of the leg you are planning to work. Stand up straight with one foot flat on the floor, and the other foot up in the air in front of you, as for half one-leg squats (Step 8). Place the arm corresponding to your raised leg out in front of you, and let your other arm hang by your side. Bend at the hip and knee of your supporting leg until your hamstrings meet your calf, and you cannot go any further. Place your hand firmly on the basketball. This is the finish position. Return to the standing position using mostly leg strength, but press down on the basketball to help you over the first few inches. Keep the heels flat.
@@ -270,6 +288,8 @@ Back to the [Top](#squats)
 ---
 
 ## One Leg Squats
+
+work up to 2 sets of 50 then begin the next
 
 ### Performance
 Stand tall. Raise one foot in the air, until it is approximately level with your hips. Keep your elevated leg as straight as possible. This will not be too difficult provided you have spent time mastering the previous steps. Place the arms directly out in front of your chest. This is the start position. Bend at the knee and hip of the supporting leg. Control your descent; do not allow yourself to just drop. Descend smoothly, until the back of the thigh of your supporting leg compresses against the calf and you cannot go any further. Your torso will also be tight against your working thigh. This is the finish position. Pause for a count of one, under tension. Push yourself back up to the start position using leg strength alone. There should be no momentum at all. Retain a straight back, hold the elevated foot off the ground, and keep the heels firmly on the floor. Pause at the top, and repeat.
