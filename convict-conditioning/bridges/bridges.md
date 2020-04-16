@@ -1,31 +1,24 @@
 ---
 layout: page
 title: Bridges
-grand_parent: fitness
-parent: convict-conditoining
-permalink: /fitness/convict-conditioning/bridges
-nav_exclude: true
-tags: bridges
+permalink: /convict-conditioning/bridges
+nav_order: 6
 ---
 
-{{ page.title }}
+# {{ page.title }}
 
-{% for page in site.pages %}
-  {% if page.tags == "bridges" %}
-  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-  {% endif %}
-{% endfor %}
+---
 
-1. [Short Bridges](#Short Bridges)
-2. [Straight Bridges](#Straight Bridges)
-3. [Angled Bridges](#Angled Bridges)
-4. [Head Bridges](#Head Bridges)
-5. [Half Bridges](#Half Bridges)
-6. [Full Bridges](#Full Bridges)
-7. [Wall Walking Bridges Down](#Wall Walking Bridges Down)
-8. [Wall Walking Bridges Up](#Wall Walking Bridges Up)
-9. [Closing Bridges](#Closing Bridges)
-10. [Stand to Stand Bridges](#Stand to Stand Bridges)
+1. [Short Bridges](#short-bridges)
+2. [Straight Bridges](#straight-bridges)
+3. [Angled Bridges](#angled-bridges)
+4. [Head Bridges](#head-bridges)
+5. [Half Bridges](#half-bridges)
+6. [Full Bridges](#full-bridges)
+7. [Wall Walking Bridges Down](#wall-walking-bridges-down)
+8. [Wall Walking Bridges Up](#wall-walking-bridges-up)
+9. [Closing Bridges](#closing-bridges)
+10. [Stand to Stand Bridges](#stand-to-stand-bridges)
 
 ---
 
@@ -58,7 +51,7 @@ The feet should be shoulder width apart or a little less, depending upon your fr
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -90,7 +83,7 @@ Push your hips upwards until your legs and torso form a straight line.
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
  
@@ -122,7 +115,7 @@ Angled bridges require an object which is about knee height or a little higher.
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -155,7 +148,7 @@ This is a bridge hold.
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -187,7 +180,7 @@ Keep going until your back is fully arched.
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -220,7 +213,7 @@ Allow the head to tilt backwards between the arms, so that you can look at the w
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -255,7 +248,7 @@ Place your hands flat on the floor.
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -288,7 +281,7 @@ Continue walking upwards until you are nearly straight.
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -325,7 +318,7 @@ Extend your arms as you keep the movement going, until your palms are resting on
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
 ---
 
@@ -358,18 +351,6 @@ Press through the hands and finally the fingers, lifting the palms off the floor
 
 ---
 
-Back to [Top](#abs)
+Back to [Top](#bridges)
 
----
-
-### Variants
-
-- Bow Holds
-- Camel Holds
-- Gecko Bridges
-- Hyperextensions
-- Reverse Hyperextensions
-- Prone Hyperextensions
-- Back Handsprings
- 
 ---
