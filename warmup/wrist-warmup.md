@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: fitnesss
 title: Wrist Warmup
 permalink: /warmup/wrist-warmup
 nav_exclude: true
