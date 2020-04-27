@@ -1,5 +1,5 @@
 ---
-layout: fitness
+layout: default
 title: Push Ups
 permalink: /push-ups
 nav_order: 2
