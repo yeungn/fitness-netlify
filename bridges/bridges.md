@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Bridges
 permalink: /bridges
 nav_order: 6
