@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Sqaut Variants
-permalink: /convict-conditioning/squat-variants
+permalink: /squat-variants
 nav_exclude: true
 ---
 
-## Variants
+## {{ page.title }}
 
 - [Lunges](#lunges)
 - [Leg Press Lunges](#leg-press-lunges)

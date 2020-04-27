@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Handstand
-permalink: /convict-conditioning/handstand-variants
+title: Handstand Variants
+permalink: /handstand-variants
 nav_exclude: true
 ---
 

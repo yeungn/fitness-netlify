@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bridges
-permalink: /convict-conditioning/bridges
+permalink: /bridges
 nav_order: 6
 ---
 
@@ -354,3 +354,5 @@ Press through the hands and finally the fingers, lifting the palms off the floor
 Back to [Top](#bridges)
 
 ---
+
+[Brdge Variants](/bridge-variants)

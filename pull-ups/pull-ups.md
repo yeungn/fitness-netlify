@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pull Ups
-permalink: /convict-conditioning/pull-ups
+permalink: /pull-ups
 nav_order: 4
 ---
 
@@ -323,4 +323,4 @@ Back to [Top](#pull-ups)
 
 ---
 
-[Pull Up Variants](/convict-conditioning/pull-up-variants)
+[Pull Up Variants](/pull-up-variants)

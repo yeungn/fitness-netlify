@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Squats
-permalink: /convict-conditioning/squats
+permalink: /squats
 nav_order: 3
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 1. [Shoulderstand Squats](#shoulderstand-squats)
 2. [Jackknife Squats](#jackknife-squats)
@@ -318,4 +318,4 @@ Back to the [Top](#squats)
 
 ---
 
-## [Squat Variants](/convict-conditioning/squat-variants)
+## [Squat Variants](//squat-variants)

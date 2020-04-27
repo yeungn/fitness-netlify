@@ -1,15 +1,13 @@
 ---
 layout: default
 title: Pull Up Variants
-permalink: /convict-conditioning/pull-up-variants
+permalink: /pull-up-variants
 nav_exclude: true
 ---
 
 # {{ page.title }}
 
-## Variants
-
-1. [Dips](dips)
+1. [Dips](#dips)
 2. [Sentry Pull Ups](#sentry-pull-ups)
 3. [Elbow Press](#elbow-press)
 4. [Bar Pulls](#bar-pulls)

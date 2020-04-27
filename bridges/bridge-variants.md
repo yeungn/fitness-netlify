@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bridge Variants
-permalink: /convict-conditioning/bridge-variants
+permalink: /bridge-variants
 nav_exclude: true
 ---
 
@@ -20,9 +20,6 @@ nav_exclude: true
 1. [Back Handsprings](#back-handsprings)
  
 ---
-
-
-
 
 ### Bow Holds
 “This is a classic spinal exercise that will develop the contractile ability of your back, as well as training the vertebrae and their surrounding ligaments. Lie face down on the floor. Bend your knees, bringing your feet up over your buttocks, and reach back to grasp your ankles with their corresponding hands. This in itself will provide a stretch, but we’re not done yet. Using pure spinal power, simultaneously lift your chest and knees as high off the ground as you can. Hold the position for between ten and thirty seconds. Once you are comfortable in the bow hold, you can try the camel hold.”

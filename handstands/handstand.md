@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Handstand
-permalink: /convict-conditioning/handstand
+permalink: /handstand
 nav_order: 7
 ---
 
@@ -374,3 +374,4 @@ Back to [Top](#handstand-push-ups)
 
 ---
 
+[Handstand Variants](/handstand-variants)

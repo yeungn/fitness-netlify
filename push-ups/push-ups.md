@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: fitness
 title: Push Ups
-permalink: /convict-conditioning/push-ups
+permalink: /push-ups
 nav_order: 2
 ---
-
-# {{ page.title }}
 
 1. [Wall Push Up](#wall-push-ups)
 2. [Incline Push Up](#incline-push-ups)
