@@ -5,12 +5,12 @@ permalink: /push-ups
 nav_order: 2
 ---
 
-1. [Wall Push Up](#wall-push-ups)
+<!-- ~~ 1. [Wall Push Up](#wall-push-ups) ~~
 2. [Incline Push Up](#incline-push-ups)
 3. [Kneeling Push Up](#kneeling-push-ups)
 4. [Half Push Up](#half-push-ups)
 5. [Full Push Up](#full-push-ups)
-6. [Closed Push Up](#close-push-ups)
+6. [Closed Push Up](#close-push-ups) -->
 7. [Uneven Push Up](#uneven-push-ups)
 8. [Half One-Arm Push Up](#half-one-arm-push-ups)
 9. [Lever Push Up](#lever-push-ups)
@@ -18,70 +18,61 @@ nav_order: 2
 
 ---
 
-## Wall Push Ups
+<!-- ## Wall Push Ups -->
 
-Work up to 3 sets of 50, then begin the next step
+<!-- Work up to 3 sets of 50, then begin the next step -->
 
-### Performance
-Face the wall With your feet together, place your palms flat against the wall. This is the start position. Your arms should be straight and shoulder width apart, with the hands at chest level. Bend the shoulders and elbows until the forehead gently touches the wall. This is the finish position. Press back to the start position and repeat.
+<!-- ### Performance
+Face the wall With your feet together, place your palms flat against the wall. This is the start position. Your arms should be straight and shoulder width apart, with the hands at chest level. Bend the shoulders and elbows until the forehead gently touches the wall. This is the finish position. Press back to the start position and repeat. -->
 
+<!-- ### Exercise
+Wall pushups are the first step of the ten step series required for complete mastery of the pushup family of movements. As the first step, this technique represents the easiest version of the pushup. Every able-bodied person should be able to do this exercise without a problem. Wall pushups are also the first movement in the therapy sequence of the pushup series. This exercise will be of great benefit to somebody coming out of an injury or following an operation, who is looking to promote healing and rebuild their strength slowly. The elbows, wrists and shoulders—most notably the delicate rotator cuff muscles within the shoulders—are particularly prone to chronic and acute injury. This exercise gently activates these areas, stimulating them, developing blood flow and tone. Beginners new to calisthenics must start any training program very gently to develop their technique and ability. They should start with this exercise. -->
 
-### Exercise
-Wall pushups are the first step of the ten step series required for complete mastery of the pushup family of movements. As the first step, this technique represents the easiest version of the pushup. Every able-bodied person should be able to do this exercise without a problem. Wall pushups are also the first movement in the therapy sequence of the pushup series. This exercise will be of great benefit to somebody coming out of an injury or following an operation, who is looking to promote healing and rebuild their strength slowly. The elbows, wrists and shoulders—most notably the delicate rotator cuff muscles within the shoulders—are particularly prone to chronic and acute injury. This exercise gently activates these areas, stimulating them, developing blood flow and tone. Beginners new to calisthenics must start any training program very gently to develop their technique and ability. They should start with this exercise.
-
-### Training Goals
+<!-- ### Training Goals
 
 | Beginner standard | 1 set | 10 |
 | Intermediate standard | 2 sets | 25 |
-| Progression standard | 3 sets | 50 |
+| Progression standard | 3 sets | 50 | -->
 
----
+<!-- --- -->
 
-### Perfecting Your Technique
-Every person reading this book should be able to do this exercise, unless they are disabled, badly injured or ill. If coming back from an injury or operation, this movement is a good “tester,” allowing the athlete to feel out any weak points during rehabilitation.
+<!-- ### Perfecting Your Technique
+Every person reading this book should be able to do this exercise, unless they are disabled, badly injured or ill. If coming back from an injury or operation, this movement is a good “tester,” allowing the athlete to feel out any weak points during rehabilitation. -->
 
----
+<!-- --- -->
 
-Back to [Top](#push-ups)
+<!-- ## Incline Push Ups
 
----
+Work up to 3 sets of 40, then begin the next step -->
 
-## Incline Push Ups
+<!-- ### Performance
+To do this exercise you will need to find a secure object or piece of furniture which is about half your height—it should reach the midpoint of your body (roughly around the level of the hips). Good options might be desks, tall chairs, work surfaces, kitchen tops, low walls or solid fences. In most prisons, I’ve found that the cell basin fits the bill nicely—but make sure it’s strong enough to accommodate the demands of the exercise. With your feet together and your body aligned, lean over and grasp the object with the arms straight and shoulder width apart. This is the start position of the exercise and—if the object reaches your midpoint—should put you at about 45 degrees from the floor. Bending at the elbows and shoulders, lower yourself until your torso gently touches the top of the object. Pause briefly before pressing back up to the start position, and repeat. -->
 
-Work up to 3 sets of 40, then begin the next step
+<!-- ### Exercise
+This exercise continues where Step 1 (the wall pushup) leaves off, with the lower pressing angle meaning that more bodyweight has to be moved by the muscles of the upper body. The incline pushup easier than the classic full pushup (Step 5). For most athletes this exercise won’t place very great demands on the muscles, but it will be useful for the beginner to continue their training gently, or for rehabilitation purposes. -->
 
-### Performance
-To do this exercise you will need to find a secure object or piece of furniture which is about half your height—it should reach the midpoint of your body (roughly around the level of the hips). Good options might be desks, tall chairs, work surfaces, kitchen tops, low walls or solid fences. In most prisons, I’ve found that the cell basin fits the bill nicely—but make sure it’s strong enough to accommodate the demands of the exercise. With your feet together and your body aligned, lean over and grasp the object with the arms straight and shoulder width apart. This is the start position of the exercise and—if the object reaches your midpoint—should put you at about 45 degrees from the floor. Bending at the elbows and shoulders, lower yourself until your torso gently touches the top of the object. Pause briefly before pressing back up to the start position, and repeat.
-
-### Exercise
-This exercise continues where Step 1 (the wall pushup) leaves off, with the lower pressing angle meaning that more bodyweight has to be moved by the muscles of the upper body. The incline pushup easier than the classic full pushup (Step 5). For most athletes this exercise won’t place very great demands on the muscles, but it will be useful for the beginner to continue their training gently, or for rehabilitation purposes.
-
-### Training Goals
+<!-- ### Training Goals
 
 | Beginner standard | 1 set | 10 |
 | Intermediate standard | 2 sets | 20 |
-| Progression standard | 3 sets | 40 |
+| Progression standard | 3 sets | 40 | -->
 
----
+<!-- --- -->
 
-### Perfecting Your Technique
-Incline pushups should be done at 45 degree angle. If the beginner standard can’t be met at this angle, use a greater (more upright) angle—simply place the hands on an object higher than the body’s midpoint. Once this is mastered, gradually use lesser angles until 45 degrees becomes easy. Harder angles can be attempted using progressively lower steps on a set of stairs.
+<!-- ### Perfecting Your Technique
+Incline pushups should be done at 45 degree angle. If the beginner standard can’t be met at this angle, use a greater (more upright) angle—simply place the hands on an object higher than the body’s midpoint. Once this is mastered, gradually use lesser angles until 45 degrees becomes easy. Harder angles can be attempted using progressively lower steps on a set of stairs. -->
 
----
+<!-- --- -->
 
-Back to [Top](#push-ups)
+<!-- ## Kneeling Push Ups -->
 
----
+<!-- Work up to 3 sets of 30, then begin the next step -->
 
-## Kneeling Push Ups
+<!-- ### Performance
+Kneel on the floor with your feet together, and your palms flat on the ground in front of you. The arms should be straight, shoulder width apart, and in line with your chest. Link one ankle around the other, and keep the hips straight and in alignment with the trunk and head. Using the knees as a pivot, bend at the shoulders and elbows until your chest is approximately one fist’s width from the floor. Pause and press back to the start position, then repeat. -->
 
-Work up to 3 sets of 30, then begin the next step
-
-### Performance
-Kneel on the floor with your feet together, and your palms flat on the ground in front of you. The arms should be straight, shoulder width apart, and in line with your chest. Link one ankle around the other, and keep the hips straight and in alignment with the trunk and head. Using the knees as a pivot, bend at the shoulders and elbows until your chest is approximately one fist’s width from the floor. Pause and press back to the start position, then repeat.
-
-### Exercise
-Kneeling pushups are Step 3 in the pushup series. They are an important movement for beginners to master, because they are the easiest type of pushup that can be performed prone, i.e., flat on the floor. Because of this, they form an important link between the first two steps, which are performed standing, and the harder prone techniques later in the series. Women often do kneeling pushups because they lack the relative upper body strength to perform the full pushup, but this exercise offers great benefits to guys as well. It’s a good starting exercise for somebody who’s maybe overweight or kneeling pushups make an excellent warm up exercise you can do before attempting harder forms of pushup.
+<!-- ### Exercise -->
+<!-- Kneeling pushups are Step 3 in the pushup series. They are an important movement for beginners to master, because they are the easiest type of pushup that can be performed prone, i.e., flat on the floor. Because of this, they form an important link between the first two steps, which are performed standing, and the harder prone techniques later in the series. Women often do kneeling pushups because they lack the relative upper body strength to perform the full pushup, but this exercise offers great benefits to guys as well. It’s a good starting exercise for somebody who’s maybe overweight or kneeling pushups make an excellent warm up exercise you can do before attempting harder forms of pushup. -->
 
 ### Training Goals
 

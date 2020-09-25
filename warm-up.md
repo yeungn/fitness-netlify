@@ -5,17 +5,14 @@ permalink: /
 nav_order: 1
 ---
 
-## {{ page.title }}
-
-1. [Neck Circles](#neck-circles)
-2. [Deep Squat Wrist Roll](#deep-squat-wrist-roll)
-3. [The Titanic](#the-titanic)
-4. [Overhead Reach](#overhead-reach)
-5. [Dead Hang](#dead-hang)
-6. [Elbow Corkscrew](#elbow-corkscrew)
-7. [Plank Knee Raise](#plank-knee-raise)
-
-- [Additional Wrist Warmup](#wrist-warm-up) - additional links to wrist prep / warmup
+- [Neck Circles](#neck-circles)
+- [Deep Squat Wrist Roll](#deep-squat-wrist-roll)
+- [The Titanic](#the-titanic)
+- [Overhead Reach](#overhead-reach)
+- [Elbow Corkscrew](#elbow-corkscrew)
+- [Dead Hang](#dead-hang)
+- [Plank Knee Raise](#plank-knee-raise)
+- [Wrist Warm Up](#wrist-warm-up)
 
 ---
 
@@ -34,10 +31,6 @@ nav_order: 1
 
 ---
 
-Back to [Top](#warm-up)
-
----
-
 ### Deep Squat Wrist Roll
 
 1. Assume a wide stance with your toes turned outward to approximately 45 degrees, then squat down as deep as you can without lifting your heels from the floor. You may need to flex your ankles and allow your knees to drift toward your toes in order to achieve full depth. Aim to touch your hamstrings against your calves.
@@ -49,10 +42,6 @@ Back to [Top](#warm-up)
 <div class="code-example" markdown="1">
   - Be careful not to let your knees cave inward. You can wedge your elbows against your knees to keep them in line with your feet.
 </div>
-
----
-
-Back to [Top](#warm-up)
 
 ---
 
@@ -71,10 +60,6 @@ Back to [Top](#warm-up)
 
 ---
 
-Back to [Top](#warm-up)
-
----
-
 ### Overhead Reach
 
 1. Grasp the rings at chest height, then reach your arms all the way overhead.
@@ -86,10 +71,6 @@ Back to [Top](#warm-up)
 <div class="code-example" markdown="1">
   - Experiment with various hand positions; overhand and underhand grips are both fair game. You will feel the stretch differently each way
 </div>
-
----
-
-Back to [Top](#warm-up)
 
 ---
 
@@ -108,10 +89,6 @@ Back to [Top](#warm-up)
 
 ---
 
-Back to [Top](#warm-up)
-
----
-
 ### Dead Hang
 1. Set the rings overhead and grasp one in each hand with a standard grip, with your feet off the ground.
 
@@ -123,10 +100,6 @@ Back to [Top](#warm-up)
   - Experiment with different head positions. You can look up, down or to the sides.
   - If your rings aren’t high enough to hang with your feet completely off the ground, you may rest your heels on the floor with your feet positioned slightly in front of your body.
 </div>
-
----
-
-Back to [Top](#warm-up)
 
 ---
 
@@ -144,15 +117,9 @@ Back to [Top](#warm-up)
 
 ---
 
-Back to [Top](#warm-up)
-
----
-
 ## Wrist Warm Up
 
 - [Wrist Prep Routine - GMB Youtube](https://youtu.be/mSZWSQSSEjE){:target="blank"} - external link
-- [Novel Movements - Forward Motion PT Youtube](https://www.youtube.com/watch?v=-hlWgH3_0NU&feature=related){:target="blank"}
+- [Novel Movements - Forward Motion PT Youtube](https://www.youtube.com/watch?v=-hlWgH3_0NU&feature=related){:target="blank"} - external link
 
 ---
-
-Back to [Top](#warm-up)
