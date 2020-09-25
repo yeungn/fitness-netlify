@@ -5,8 +5,6 @@ permalink: /pull-ups
 nav_order: 4
 ---
 
-# {{ page.title }}
-
 1. [Vertical Pull Ups](#vertical-pull-ups)
 2. [Horizontal Pull Ups](#horizontal-pull-ups)
 3. [Jackknife Pull Ups](#jackknife-pull-ups)
@@ -47,10 +45,6 @@ At this point you will feel a gentle stretch in your upper back, and possibly yo
 
 ---
 
-Back to [Top](#pull-ups)
-
----
-
 ## Horizontal Pull Ups
 
 Work up to: 3 sets of 30
@@ -76,10 +70,6 @@ The higher the object you are pulling up to, the less extreme the angle of the b
 FIG. 43: Keep your body tensed and locked straight, so that its weight goes only thorough your hands and heels.
 
 Smoothly pull yourself up, keeping the body (especially the knees) aligned.
-
----
-
-Back to [Top](#pull-ups)
 
 ---
 
@@ -110,10 +100,6 @@ Smoothly pull yourself up, using your straightened legs to assist you.
 
 ---
 
-Back to [Top](#pull-ups)
-
----
-
 ## Half Pull Ups
 
 Work up to: 2 sets of 15
@@ -137,10 +123,6 @@ This is the first movement in the pullup series where the athlete is expected to
 
 FIG. 47: Your upper arms should be parallel to the floor.
 Allow your elbows to travel forwards if it seems “right” for you.
-
----
-
-Back to [Top](#pull-ups)
 
 ---
 
@@ -170,10 +152,6 @@ Bend at the elbows and shoulders until your chin passes over the bar.
 
 ---
 
-Back to [Top](#pull-ups)
-
----
-
 ## Closed Pull Ups
 
 Work up to: 2 sets of 10
@@ -191,10 +169,6 @@ Some athletes trained in the full pullup find this exercise difficult, because d
 FIG. 51: Your hands should be next to each other—four inches apart at the maximum.
 
 Try to minimize leg movement during the set
-
----
-
-Back to [Top](#pull-ups)
 
 ---
 
@@ -224,10 +198,6 @@ Bend at the elbows and shoulders to smoothly pull yourself up until your chin is
 
 ---
 
-Back to [Top](#pull-ups)
-
----
-
 ## Half One Arm Pull Ups
 
 Work up to: 2 sets of 8
@@ -251,10 +221,6 @@ The lower you descend, the harder pullups are. If you can’t quite manage half 
 
 FIG. 55: The elbow should be at a right angle, with your upper arm parallel to the ground.
 Smoothly pull your body up until your chin is over the height of the bar.
-
----
-
-Back to [Top](#pull-ups)
 
 ---
 
@@ -285,10 +251,6 @@ FIG. 57: With your opposite hand, grab the towel as low as possible—around eye
 
 FIG. 58: Release the towel, and continue pulling yourself up with just one arm until your chin is over the bar.
 Release the towel, and continue pulling yourself up with just one arm until your chin is over the bar.
-
----
-
-Back to [Top](#pull-ups)
     
 ---
 
@@ -316,10 +278,6 @@ This is one hell of a hard technique, and although you can master it with dedica
 Your working arm should be virtually straight, with just a little kink in it to take the stress of the joints.
 
 FIG. 60: Bend at the elbow and shoulder and pull your body up with as little momentum as possible.
-
----
-
-Back to [Top](#pull-ups)
 
 ---
 

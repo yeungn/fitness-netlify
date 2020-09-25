@@ -5,10 +5,6 @@ permalink: /bridges
 nav_order: 6
 ---
 
-# {{ page.title }}
-
----
-
 1. [Short Bridges](#short-bridges)
 2. [Straight Bridges](#straight-bridges)
 3. [Angled Bridges](#angled-bridges)
@@ -48,11 +44,6 @@ Most people should be able to do short bridges without much difficulty. If you a
 
 The feet should be shoulder width apart or a little less, depending upon your frame. Your thighs, trunk and torso should form a straight line, with no sagging of the hips.
 
-
----
-
-Back to [Top](#bridges)
-
 ---
 
 ## Straight Bridges
@@ -82,10 +73,6 @@ Your body will now form a right angle, with your trunk perpendicular to your leg
 Push your hips upwards until your legs and torso form a straight line.
 
 ---
-
-Back to [Top](#bridges)
-
----
  
 ## Angled Bridges
 
@@ -112,10 +99,6 @@ Bridging is easier the shallower the angle—i.e., the higher your head and hand
 
 Angled bridges require an object which is about knee height or a little higher.
  The arms don’t need to be fully extended; the elbows will be bent.
-
----
-
-Back to [Top](#bridges)
 
 ---
 
@@ -148,10 +131,6 @@ This is a bridge hold.
 
 ---
 
-Back to [Top](#bridges)
-
----
-
 ## Half Bridges
 
 Work up to: 2 sets of 20
@@ -177,10 +156,6 @@ As with most bridging movements, if you have trouble performing the reps as desc
 The feet should be shoulder width apart or a little closer, and the ball should be supporting the small of your back.
 
 Keep going until your back is fully arched.
-
----
-
-Back to [Top](#bridges)
 
 ---
 
@@ -210,10 +185,6 @@ Attaining the ideal bridge—particularly the full extension of the arms and leg
 Place the hands alongside the head, with the palms flat on the floor and your fingers pointing towards your toes.
 
 Allow the head to tilt backwards between the arms, so that you can look at the wall behind you.
-
----
-
-Back to [Top](#bridges)
 
 ---
 
@@ -248,10 +219,6 @@ Place your hands flat on the floor.
 
 ---
 
-Back to [Top](#bridges)
-
----
-
 ## Wall Walking Bridges Up
 
 Work up to: 2 sets of 8
@@ -278,10 +245,6 @@ Place one palm back on the wall, pushing through it.
 
 Continue walking upwards until you are nearly straight.
 : Push gently away from the wall until you are standing totally clear from it again.
-
----
-
-Back to [Top](#bridges)
 
 ---
 
@@ -318,10 +281,6 @@ Extend your arms as you keep the movement going, until your palms are resting on
 
 ---
 
-Back to [Top](#bridges)
-
----
-
 ## Stand to Stand Bridges
 
 Work up to: 2 sets of 10-30
@@ -348,10 +307,6 @@ Just as with closing bridges (Step 9), you can use stairs to increase your depth
 
 Press through the hands and finally the fingers, lifting the palms off the floor.
 : Finally, pull the hips in until you are standing straight with hands by your sides.
-
----
-
-Back to [Top](#bridges)
 
 ---
 
