@@ -5,18 +5,17 @@ permalink: /abs
 nav_order: 5
 ---
 
-## {{ page.title }}
-
-1. [Knee Tucks](#knee-tucks)
-2. [Flat Knee Raises](#flat-knee-raises)
-3. [Flat Bent Knee Raises](#flat-bent-knee-raises)
-4. [Flat Frog Raises](#flat-frog-raises)
-5. [Flat Straight Leg Raises](#flat-straight-leg-raises)
-6. [Hanging Knee Raises](#hanging-knee-raises)
-7. [Hanging Bent Leg Raises](#hanging-bent-leg-raises)
-8. [Hanging Frog Raises](#hanging-frog-raises)
-9. [Hanging Partial Straight Leg Raises](#hanging-partial-straight-leg-raises)
-10. [Hanging Straight Leg Raises](#hanging-straight-leg-raises)
+- [Knee Tucks](#knee-tucks)
+- [Flat Knee Raises](#flat-knee-raises)
+- [Flat Bent Knee Raises](#flat-bent-knee-raises)
+- [Flat Frog Raises](#flat-frog-raises)
+- [Flat Straight Leg Raises](#flat-straight-leg-raises)
+- [Hanging Knee Raises](#hanging-knee-raises)
+- [Hanging Bent Leg Raises](#hanging-bent-leg-raises)
+- [Hanging Frog Raises](#hanging-frog-raises)
+- [Hanging Partial Straight Leg Raises](#hanging-partial-straight-leg-raises)
+- [Hanging Straight Leg Raises](#hanging-straight-leg-raises)
+- [Ab Variants](#ab-variantsab-variants)
 
 ---
 
@@ -32,7 +31,7 @@ nav_order: 5
 
 ---
 
-### Training Goals
+** Training Goals
 
 | Beginner standard | 1 set | 10 |
 | Intermediate standard | 2 sets | 25 |
@@ -40,12 +39,8 @@ nav_order: 5
 
 ---
 
-> ### Perfecting Your Technique
+*** Perfecting Your Technique
 > This exercise is equally hard in the start position where the legs are stretched out—and in the finish position where the knees are pulled towards the chest. To make the exercise a little easier, focus on a shorter range of motion between these two extremes. As your waist becomes stronger, gradually lengthen the range of motion until your form is perfect.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -61,7 +56,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 5 |
 | Intermediate standard | 2 sets | 10 |
@@ -69,12 +64,8 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+*** Perfecting Your Technique
 > One of the hardest elements of this exercise is keeping the feet off the floor with the legs outstretched. If this is causing you trouble, return your feet to the floor between repetitions. When you gain the strength to do reps while continuously keeping your feet off the floor, do so—even if it’s only two repetitions—then as you tire complete the set by resting your feet on the floor between reps. Over time keep gradually adding reps with your feet clear of the floor.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -90,7 +81,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 10 |
 | Intermediate standard | 2 sets | 15 |
@@ -98,14 +89,10 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > Flat knee raises involve a ninety degree knee bend. Flat bent leg raises require a forty-five degree knee bend. The less the degree of bend, the greater the amount of leverage and the harder the exercise becomes. If you cannot meet the beginner standard, use more of a knee bend—a little less than ninety degrees. As you get stronger, start straightening your legs little by little, until you meet the forty-five degree criterion.
 
 > As you move, the angle of the knee should not change; it must remain locked in the same position.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -119,7 +106,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 8 |
 | Intermediate standard | 2 sets | 15 |
@@ -127,12 +114,8 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > If you find this exercise difficult, focus your workouts on the top range—around the frog extension technique where the legs are up in the air. As you become stronger over time, slowly add depth until you are doing full reps.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -146,7 +129,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 5 |
 | Intermediate standard | 2 sets | 10 |
@@ -154,12 +137,8 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > This exercise can be made a lot easier by bending the knees; but that’s not an advisable shortcut because the major benefits of this exercise come from the fact that the legs are straight. If you can’t meet the beginner standard, go back to flat frog raises (Step 4) and build up to 3 sets of 30 reps before trying again. If you still have problems, keep the legs straight but focus on shorter, top range reps and acquire more depth whenever you are able to.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -173,7 +152,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 5 |
 | Intermediate standard | 2 sets | 10 |
@@ -181,12 +160,8 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > If you can’t handle at least five good, strict reps of this exercise, reduce your range of motion. Focus on the top portion where the knees are in the finish position, and gradually add depth over time. Whatever you do, resist the urge to use momentum. Using smooth, controlled motions early on in the series will build a base of muscle and tendon strength which will prove invaluable if you wish to master later steps. Momentum won’t help.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -200,7 +175,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 5 |
 | Intermediate standard | 2 sets | 10 |
@@ -208,12 +183,8 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > At first, you may find it difficult to keep your knees locked at the correct angle throughout the motion. There will be a tendency to straighten the legs out a little as you lower them. Try to avoid this, because resetting the correct angle as the legs are raised tends to impart momentum which leads to a swinging motion. If you have trouble with the exercise from the start, simply increase the angle of the knee bend from forty-five degrees to closer to ninety degrees. As you gain strength from workout to workout, gradually extend the legs until you meet your goal of forty-five degrees.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -225,7 +196,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 5 |
 | Intermediate standard | 2 sets | 10 |
@@ -233,12 +204,8 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > If you can meet the progression standard for hanging bent leg raises, five reps of hanging frog raises should be well within your capabilities. When students have difficulty moving from bent leg raises to frog-type movements, the issue is usually lack of flexibility rather than strength. This can be easily cured by bending forwards and stretching out the lower back and hamstrings for a few minutes before attempting this exercise.”
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -250,7 +217,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 5 |
 | Intermediate standard | 2 sets | 10 |
@@ -258,12 +225,8 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > If you have met the progression standard for hanging frog raises, this means you will be able to hold the advanced legs extended position of the leg raise (fig. 80). If you find that partial straight leg raises are too hard, it must be because the range of motion is still too great for your strength levels. Focus on doing this exercise near the legs extended finish position, moving your legs down and back up, even if you can only move a few inches at first. Over time, your strength will increase and you’ll be able to move your legs down to the full forty-five degree position and back up again.
-
----
-
-Back to [Top](#abs)
 
 ---
 
@@ -279,7 +242,7 @@ Back to [Top](#abs)
 
 ---
 
-### Training Goals
+*** Training Goals
 
 | Beginner standard | 1 set | 5 |
 | Intermediate standard | 2 sets | 10 |
@@ -287,15 +250,11 @@ Back to [Top](#abs)
 
 ---
 
-> ### Perfecting Your Technique
+***## Perfecting Your Technique
 > When you begin hanging straight leg raises, you should have already mastered hanging partial straight leg raises. If you haven’t, go back and do so. If you have mastered the partial version, all you need to do is slowly increase your depth of motion from workout to workout—even by a fraction of an inch—and you’ll be able to pull off this exercise before you know it.
 
 ---
 
-Back to [Top](#abs)
-
----
-
-### [Ab Variants](/ab-variants)
+## [Ab Variants](/ab-variants)
 
 

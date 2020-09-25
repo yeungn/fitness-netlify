@@ -5,10 +5,6 @@ permalink: /handstand
 nav_order: 7
 ---
 
-# {{ page.title }}
-
----
-
 1. [Wall Headstand](#wall-headstand)
 2. [Crow Stand](#crow-stand)
 3. [Wall Handstand](#wall-handstand)
@@ -21,7 +17,6 @@ nav_order: 7
 10. [One Arm Handstand Push Ups](#one-arm-handstand-push-up)
 
 ---
-
 
 ## Wall Headstand
 
@@ -49,10 +44,6 @@ Most people can stay in the wall headstand for a few seconds—the major problem
 
 FIG. 107: Bring your strongest knee up close to your corresponding elbow, and straighten out your other leg.
 Once you have found the wall, slowly straighten your legs so that the body is aligned.
-
----
-
-Back to [Top](#handstand-push-ups)
 
 ---
 
@@ -84,10 +75,6 @@ Lean forwards, placing your knees securely on the outside of your elbows.
 
 FIG. 110: Hoist the legs up tight and balance for the required time.
 
-
----
-
-Back to [Top](#handstand-push-ups)
 
 ---
 
@@ -123,10 +110,6 @@ FIG. 112: Over time you’ll learn the art of finding the wall perfectly.
 
 ---
 
-Back to [Top](#handstand-push-ups)
-
----
-
 
 ## Half Handstand Push Up
 
@@ -152,10 +135,6 @@ Previous steps will have taught you how to kick up into a handstand against the 
 You should now be in the classic wall handstand starting posture.
 Bend at the shoulders and elbows until the top of your head is halfway towards touching the ground.
 
-
----
-
-Back to [Top](#handstand-push-ups)
 
 ---
 
@@ -186,10 +165,6 @@ Once you have found the wall, keep contact with it through your heels.
 
 FIG. 116: Apply muscular control and concentration in all inverse movements to ensure safety.
 
-
----
-
-Back to [Top](#handstand-push-ups)
 
 ---
 
@@ -227,10 +202,6 @@ Bend at the shoulders and elbows until the head gently kisses the floor.
 
 ---
 
-Back to [Top](#handstand-push-ups)
-
----
-
 
 ## Uneven Handstand Push Up
 
@@ -263,10 +234,6 @@ Bend at the elbows and shoulders until the head gently touches the floor.
 
 ---
 
-Back to [Top](#handstand-push-ups)
-
----
-
 
 ## Half One Arm Handstand Push Up
 
@@ -295,10 +262,6 @@ This is a hard exercise which can only be gradually mastered by increasing your 
 You will now be supporting yourself on one straight arm.
 Bend at the elbow and shoulder of your supporting arm until your head is halfway towards the floor.
 
-
----
-
-Back to [Top](#handstand-push-ups)
 
 ---
 
@@ -334,10 +297,6 @@ FIG. 124: Pause as the top of your skull softly touches the floor.
 
 ---
 
-Back to [Top](#handstand-push-ups)
-
----
-
 
 ## One Arm Handstand Push Up
 
@@ -367,10 +326,6 @@ FIG. 125: Keep your body gently arched with the heels against the wall.
 
 To help you get out of the bottom position, a kick up with the legs is permissible.
 
-
----
-
-Back to [Top](#handstand-push-ups)
 
 ---
 
