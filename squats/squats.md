@@ -318,4 +318,4 @@ Back to the [Top](#squats)
 
 ---
 
-## [Squat Variants](//squat-variants)
+## [Squat Variants](squat-variants)
