@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Warm Up
-permalink: /
-nav_order: 1
+permalink: /warm-up
+nav_order: 2
 ---
 
 ## {{ page.title }}
