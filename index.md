@@ -21,11 +21,5 @@ permalink: /
 10. ### [Handstands]({{ site.baseurl }}{% link docs/handstands/handstands.md %})
 11. ### [Stretching]({{ site.baseurl }}{% link docs/stretching.md %})
 
-### Notes
-- 5/30/2022 
-- focus on higher reps 15-20
-- Dips 30 bodyweight
-- Chest Opener
-- Decongestion
-- Hip Opener
+### [Notes]({{ site.baseurl }}{%  link docs/notes.md %})
 
