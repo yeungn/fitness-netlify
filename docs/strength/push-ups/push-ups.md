@@ -2,6 +2,7 @@
 layout: default
 title: Push Ups
 permalink: /push-ups
+nav_exclude: true
 ---
 
 1. [Wall Push Up](#wall-push-ups)

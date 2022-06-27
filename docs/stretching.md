@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stretching
+nav_exclude: true
 ---
 
 - Neck rotation

@@ -1,23 +1,28 @@
 ---
 layout: default
-title: Warm Up
+title: Dynamic Warm Up
+nav_order: 2
 ---
 
 ### Dynamic Warm Ups
+
 - Neck rotation
-- Yuri's Shoulder Band Warmup
-- Band rotator cuff rotation
-- Squat Sky Reaches
-- Ground on all four elbow to elbow, elbow up in the air
 - GMB Wrist Prep
+- Band rotator cuff rotation
+- calf stretch, calf on surface, two straight legs, lean forward with straight back
+- Full squat hand behind heel sway
+- Lunge Quad stretch (pelvis tilted)
+- Squat Sky Reaches
+- Ground on all four elbow to elbow
+- 90/90
+
+- Yuri's Shoulder Band Warmup
 - Deadbugs
 - Arch Hangs
 - Suport Hold
 - Easier Squat Progression
 - Easier Hinge Progression
-- Full squat hand behind heel sway
-- Lunge Quad stretch pelvis tilted
-- 90/90
+
 - Straight bar good morning
 - Straight bar half fold hamstring stretch
 - Straight bar Elbow raise
@@ -31,7 +36,6 @@ title: Warm Up
 - TRX Side bend arms over head, back leg ankle twist
 - Yoga blocks front split 1 min each plus
 - 10 breather, then deeper stretch
-- calf stretch, calf on surface, two straight legs, lean forward with straight back
 
 ---
 

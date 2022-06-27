@@ -2,6 +2,7 @@
 layout: default
 title: Squats
 permalink: /squats
+nav_exclude: true
 ---
 
 ## {{ page.title }}

@@ -2,6 +2,7 @@
 layout: default
 title: Abs
 permalink: /abs
+nav_exclude: true
 ---
 
 ## {{ page.title }}

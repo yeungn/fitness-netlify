@@ -2,6 +2,7 @@
 layout: default
 title: Pull Ups
 permalink: /pull-ups
+nav_exclude: true
 ---
 
 # {{ page.title }}

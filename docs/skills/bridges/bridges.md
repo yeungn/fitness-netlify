@@ -2,6 +2,7 @@
 layout: default
 title: Bridges
 permalink: /bridges
+nav_exclude: true
 ---
 
 # {{ page.title }}

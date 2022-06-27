@@ -2,6 +2,7 @@
 layout: default
 title: Handstand
 permalink: /handstand
+nav_exclude: true
 ---
 
 # {{ page.title }}
