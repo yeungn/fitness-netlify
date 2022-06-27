@@ -1,6 +1,7 @@
 ---
 layout: default
 title: notes
+nav_exclude: true
 ---
 
 ### 5/30/2022 
